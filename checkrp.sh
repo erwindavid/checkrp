@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# --- commentaire IPAD
 # --- CONFIGURATION DYNAMIQUE ---
 # Cherche automatiquement le premier fichier .plist présent dans le dossier actuel
 PLIST_NAME=$(ls *.plist 2>/dev/null | head -n 1)
